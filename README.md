@@ -21,6 +21,6 @@
   
 > An end-to-end inventory health diagnostic for a 1,000-SKU supply chain. Built in **MySQL** for data cleaning and modelling, then visualised in **Power BI** to surface restock risk, fulfillment leakage, and holding-cost exposure.
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 
